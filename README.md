@@ -1,8 +1,8 @@
-HR Analytics Power BI Dashboard
+# HR Analytics Power BI Dashboard
 This Power BI project delivers an interactive HR dashboard for analyzing employee demographics, service tenure, promotions, retrenchments, job levels, and satisfaction metrics across 1,470 employees.
 ​
 
-✨ Key Features
+## ✨ Key Features
 Employee breakdown by gender (882 Male, 588 Female), job levels (e.g., Level 1: 543), and distance status (63.95% Very far).
 
 Insights on due promotions (72 employees) and retrenchments (117 employees), with lists like Adelaide L Harrop and Alexis Q Grose.
@@ -12,7 +12,7 @@ Visuals for service years (e.g., 5 Year: 196), overtime (71.7% No), and job sati
 Department-wise analysis (e.g., Manager: 44 retrenchments) and navigation tabs: Home, Action, Detail.
 ​
 
-📊 Dashboard Screenshots
+## 📊 Dashboard Screenshots
 The dashboard includes pie charts for gender (60% Male), bar charts for job levels and service years, and tables for at-risk employees.
 
 Navigation and Metrics Overview
@@ -21,7 +21,7 @@ Navigation and Metrics Overview
 Promotion & Retrenchment Lists
 (Power BI Detail view showing employee names flagged for action.)
 
-🚀 Quick Start
+## 🚀 Quick Start
 Download HR-bi-dashnoard.pdf or the .pbix file (if available).
 
 Open in Power BI Desktop (free from Microsoft).
@@ -32,7 +32,7 @@ Interact via slicers for departments, roles, and metrics.
 ​
 ​
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Category	Tools
 Category	Tools
 Visualization	Power BI Desktop
@@ -46,12 +46,9 @@ High retrenchment risk in Managers (44) and Sales.
 Job satisfaction skewed low/high; overtime low at 28.3%.
 ​
 
-🤝 Contributing
+## 🤝 Contributing
 Fork, improve visuals, or add DAX measures. PRs welcome for data source integration!
 
-📄 License
-MIT License.
-​
 
-📞 Contact
+​## 📞 Contact
 Rahul Ashwanth | AI/ML Intern | LinkedIn: rahulashwanth – Ideal for data science portfolios. 
