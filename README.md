@@ -50,5 +50,6 @@ Job satisfaction skewed low/high; overtime low at 28.3%.
 Fork, improve visuals, or add DAX measures. PRs welcome for data source integration!
 
 
-**📞 Contact**
+# 📞 Contact
+
 Rahul Ashwanth | AI/ML/Data Science Intern | LinkedIn: rahulashwanth – Ideal for data science portfolios. 
