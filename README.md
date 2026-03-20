@@ -9,7 +9,7 @@ Insights on due promotions (72 employees) and retrenchments (117 employees), wit
 
 Visuals for service years (e.g., 5 Year: 196), overtime (71.7% No), and job satisfaction (Low, Medium, High).
 
-Department-wise analysis (e.g., Manager: 44 retrenchments) and navigation tabs: Home, Action, Detail.
+Department-wise analysis (e.g., Manager: 44 retrenchments) and navigation tabs: Home, Action, Detail.m
 ​
 
 ## 📊 Dashboard Screenshots
