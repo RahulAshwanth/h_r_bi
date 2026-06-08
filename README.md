@@ -5,7 +5,7 @@ This Power BI project delivers an interactive HR dashboard for analyzing employe
 ## ✨ Key Features
 Employee breakdown by gender (882 Male, 588 Female), job levels (e.g., Level 1: 543), and distance status (63.95% Very far).
 
-Insights on due promotions (72 employees) and retrenchments (117 employees), with lists like Adelaide L Harrop and Alexis Q Grose.
+Insights on due promotions (72 employees) and retrenchments (117 employees), with lists like Adelaide L Harrop and Alexis Q Grose.d
 
 Visuals for service years (e.g., 5 Year: 196), overtime (71.7% No), and job satisfaction (Low, Medium, High).
 
